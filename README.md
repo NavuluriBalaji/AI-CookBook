@@ -74,11 +74,8 @@ This repo is structured like a **cookbook** — with each section containing **r
 #### See CONTRIBUTING.md for detailed guidelines.
 #### By contributing, you agree to follow our Code of Conduct.
 
-##🌟 Vision
+## 🌟 Vision
 
-#### The goal of this repo is to become a comprehensive AI knowledge hub —A place where builders learn, experiment, and share recipes that power the next generation of AI systems.
+##### The goal of this repo is to become a comprehensive AI knowledge hub —A place where builders learn, experiment, and share recipes that power the next generation of AI systems.
 
-##⚡ From Fine-tuning → Agentic Frameworks → Real-world Deployments ⚡
-
-## 📜 License
-## This project is licensed under the MIT License.
+> ##⚡ From Fine-tuning → Agentic Frameworks → Real-world Deployments ⚡
